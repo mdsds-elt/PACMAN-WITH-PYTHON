@@ -14,14 +14,10 @@
   ### PROJECT IMAGES
  <hr>
 
+<img src="https://user-images.githubusercontent.com/81829451/130333805-cb4742ed-3e2f-410e-a4b3-d3072b6c8e01.png" width="360" height="280">
 
 
-
-
-
-
-
-
+ <hr>
 <p align=''>
   <a href="https://www.linkedin.com/in/mdsds/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
